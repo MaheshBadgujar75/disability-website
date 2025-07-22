@@ -1,11 +1,9 @@
-import { useState } from 'react'
 import './App.css'
-import Navbar from './Components/navbar'
-import Home from './Components/home'
+import Navbar from './Components/Havbar'
+import Home from './Components/Home'
 
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
     <>
       <Navbar />
