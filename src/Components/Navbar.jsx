@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X } from 'lucide-react';
-import '../Css/navbar.css'; // Keep this only if the CSS file is used
+import '../Css/Navbar.css'; // Keep this only if the CSS file is used
 
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
