@@ -2,7 +2,7 @@ import React from 'react';
 import { 
   ArrowRight, Award, BookOpen, Headphones, Shield, Sparkles, Users 
 } from 'lucide-react';
-import '../Css/home.css';
+import '../Css/Home.css';
 
 const Home = () => {
 //   const stats = [
